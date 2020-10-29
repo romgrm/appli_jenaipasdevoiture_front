@@ -32,7 +32,7 @@ TL1.play();
 
 tl.addLabel("start")
 .from("#animate", {scale : 1.5, rotation: 45}); */
-
+/*
 gsap.to("#animate", {
     scrollTrigger: "#SELECTCAR",
     x: 500
